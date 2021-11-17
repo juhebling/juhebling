@@ -2,7 +2,7 @@
 
 about me:
 
-I'm study systems development at UNIP,
+I'm study systems development,
 
 taking the CS50 course at Harvard,
 
